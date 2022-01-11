@@ -6,6 +6,7 @@ public class Runner {
         String name = bear.getName();
         System.out.println(name);
 
+
         Planet planet = new Planet();
         planet.setName("Mars");
         planet.setSize(908973);
